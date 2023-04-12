@@ -206,7 +206,7 @@ A = 3,B = 2, C = 3
 **(e) For the boundary condition A = B = C case (equilateral triangle), identify test cases to verify the boundary.**<br/>
 A = 30,B = 30,C = 30
 **(f) For the boundary condition A2 + B2 = C2 case (right-angle triangle), identify test cases to verify the boundary.** <br/>
-A = 6,B= 8,C = 10
+A = 6,B = 8,C = 10
 **(g)  For the non-triangle case, identify test cases to explore the boundary.**
 A = 20, B = 10,C = 5
 **(h) For non-positive input, identify test points.**
@@ -215,3 +215,7 @@ A = 0,B = 0,C = 0 <br/>
 A = 0, B = -1, C = 10<br/>
 
 # Section B
+**(a) Control flow graph**
+![image](https://user-images.githubusercontent.com/94627901/231486222-c2562087-3b07-45e7-bd9f-7c4fab12271d.png)
+
+**(b) Test Cases **

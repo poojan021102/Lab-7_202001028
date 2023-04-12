@@ -16,7 +16,7 @@
 | 10 | 30 | 2 | 2020 | Invalid |
 
 
-**Equivalence Class Partitions**
+**Equivalence Class Partitions** <br/>
 Day:
 | Partition ID | Range | Status |
 |----------------------|-------|--------|
@@ -41,4 +41,4 @@ Year:
 | E11 | Less than 1 | Invalid |
 | E12 | Greater than 2015 | Invalid |
 
-**Set of test cases in partition class**
+### Eclipse Code
